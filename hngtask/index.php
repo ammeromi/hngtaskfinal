@@ -163,7 +163,7 @@ if (@$_POST['submit'] && !@$firstNameErr && !@$lastNameErr && !@$EmailErr && !@$
           <input type="password" name="password2" placeholder="Confirm Password">
 
           <input type="submit" class="font-weight-bold" name="submit" value="SIGN UP">
-          <p class="font-weight-bold">Got an account already? <a href="login.html">Login</a></p>
+          <p class="font-weight-bold">Got an account already? <a href="login.php">Login</a></p>
         </form>
         <!-- end Signup form -->
 
