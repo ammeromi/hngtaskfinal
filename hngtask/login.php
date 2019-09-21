@@ -122,7 +122,7 @@ if (@$_POST['submit']) {
 						<input type="checkbox" name="checkbox" class="col-xl-6 align-middle">Remember me <span class="col-xl-6 ml-4 font-weight-bold"><a href="#">Forgot Password?</a></span>
 					</div>
 					<input type="submit" class="font-weight-bold" name="submit" value="LOGIN">
-					<p class="font-weight-bold">If you dont have an account <a href="signup.php"><u>SignUp</u></a></p>
+					<p class="font-weight-bold">If you dont have an account <a href="index.php"><u>SignUp</u></a></p>
 				</form>
 				<!-- end Login form -->
 
